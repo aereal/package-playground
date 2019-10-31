@@ -5,5 +5,8 @@
   "repository": "ssh://git@github.com/aereal/package-playground.git",
   "author": "aereal <aereal@aereal.org>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@oneetyan/node-ane": "^1.0.0"
+  }
 }
